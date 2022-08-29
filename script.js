@@ -11,3 +11,5 @@ function changeParams(elem, h, w) {
 }
 
 changeParams(box, newHeight, newWidth);
+
+console.log("hi");
